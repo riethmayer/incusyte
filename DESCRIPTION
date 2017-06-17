@@ -5,7 +5,7 @@ Authors@R: person("Jan", "Riethmayer", email = "jan@riethmayer.com",
                   role = c("aut", "cre"))
 Description: Reads incusyte data and brings the plate into long format to simplify calculations in Excel.
 Depends: R (>= 3.1.0)
-License: file LICENSE
+License: MIT + file LICENSE
 LazyData: true
 Imports:
   devtools,
